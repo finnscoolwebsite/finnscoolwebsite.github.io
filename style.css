@@ -1,0 +1,51 @@
+body {
+    background-color: #1d1e18;
+    .cardo-regular {
+        font-family: "Cardo", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .cardo-bold {
+        font-family: "Cardo", serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+      
+      .cardo-regular-italic {
+        font-family: "Cardo", serif;
+        font-weight: 400;
+        font-style: italic;
+      }
+      
+}
+h1 {
+    color: #f7fdff;
+    text-align: center;
+    font-family: "Cardo";
+}
+h2 {
+    color: #f7fdff;
+    text-align: center;
+    font-family: "Cardo";
+}
+h3 {
+    color: #f7fdff;
+    text-align: center;
+    font-family: "Cardo";
+}
+pre {
+    color: #f7fdff;
+    text-align: center;
+    font-family: "Cardo";
+}
+p {
+    color: #f7fdff;
+    text-align: center;
+    font-family: "Cardo";
+}
+a {
+    color: #f7fdff;
+    text-align: center;
+    font-family: "Cardo";
+}
